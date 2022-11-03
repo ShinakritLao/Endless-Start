@@ -25,13 +25,19 @@ Gen
 
 Control
 
-A                   - Walk left
-D                   - Walk right
-Space          - Jump
-Left Click   - Attack
+A - Walk left
+
+D - Walk right
+
+Space - Jump
+
+Left Click - Attack
+
 Right Click - Next Dialog
-F                    - Interact
-Esc                - Menu
+
+F - Interact
+
+Esc - Menu
 
 =====================================
 
@@ -49,7 +55,9 @@ got their final mission......Starting New World.
 Diversifiers
 
 Art of Sharing
+
 Easy to Control 
+
 The Sound Maker
 
 =====================================
